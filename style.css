@@ -1,0 +1,19 @@
+
+body{
+    background-image: url("lake.png")
+}
+
+ul{
+    float:right;
+}
+li{
+    float:right;
+    padding-top: 10px;
+    padding-bottom:0px;
+    padding-left:40px;
+    padding-right:10px;
+    color: purple;
+}
+a{
+    text-decoration:none;
+}
